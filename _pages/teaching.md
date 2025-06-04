@@ -7,9 +7,10 @@ nav: true
 nav_order: 6
 ---
 
-Coming soon
+Under maintanance 
 
 # Teaching
 
-- [Melhoramento de alógamas I](_teaching/Aula_10_alogamas1.html)
+- [index](teaching/index.html)
+- [Melhoramento de alógamas I](teaching/lgn0313/Aula_10_alogamas1.html)
 
