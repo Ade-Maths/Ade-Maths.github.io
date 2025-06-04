@@ -11,6 +11,5 @@ Under maintanance
 
 # Teaching
 
-- [index](teaching/index.html)
 - [Melhoramento de alógamas I](teaching/lgn0313/Aula_10_alogamas1.html)
 
