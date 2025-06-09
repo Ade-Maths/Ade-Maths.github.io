@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Soon, there will be some materials of courses I taught here
+description: This page is under construction
 nav: true
 nav_order: 6
 ---
@@ -61,20 +61,4 @@ nav_order: 6
   {% endif %}
 {% endif %}
 </div>
-
-
-# Plant breeding for undergraduates (in Brazilian Portuguese)
-
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Teaching | Saulo Chaves</title>
-</head>
-<body>
-  <ul>
-    <li><a href="lgn0313/Aula_10_alogamas1.html">Class 10: Breeding of allogamous species</a></li>
-    <!-- Add more as needed -->
-  </ul>
-</body>
-</html>
 
