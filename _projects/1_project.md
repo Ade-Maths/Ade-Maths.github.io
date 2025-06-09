@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Plant breeding (undergraduates)
+title: Plant breeding (for undergraduates)
 description: in Brazilian Portuguese
 img: assets/img/12.jpg
 importance: 1
