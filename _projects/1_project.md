@@ -15,7 +15,8 @@ related_publications: false
 </head>
 <body>
   <ul>
-    <li><a href="../../teaching/lgn0313/Aula_10_alogamas1.html">Class 10: Breeding of allogamous species</a></li>
+    <li><a href="../../teaching/lgn0313/Alogamas1.html">Breeding of allogamous species (class 1)</a></li>
+    <li><a href="../../teaching/lgn0313/Alogamas2.html">Breeding of allogamous species (class 2)</a></li>
     <!-- Add more as needed -->
   </ul>
 </body>
