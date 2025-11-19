@@ -13,7 +13,7 @@ profile:
     <p>Av. Pádua Dias, 11</p>
     <p>Piracicaba, São Paulo, Brazil</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 ---

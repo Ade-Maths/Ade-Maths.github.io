@@ -16,9 +16,9 @@ related_publications: false
 <body>
   <ul>
     <li><a href="../../teaching/lgn0215/1_intro.html">Introduction class (the importance of genetics and molecular basis of genetics)</a></li>
-    <li><a href="../../teaching/lgn0215/2_getrans1.html">Mendelian genetics (first Law of Inheritance)</a></li>
+    <li><a href="../../teaching/lgn0215/2_getrans1.html">Mendelian genetics (First Law of Inheritance)</a></li>
     <li><a href="../../teaching/lgn0215/3_getrans2.html">Mendelian genetics (extensions to the First Law of Inheritance)</a></li>
-    <li><a href="../../teaching/lgn0215/4_getrans3.html">Mendelian genetics (second Law of Inheritance)</a></li>
+    <li><a href="../../teaching/lgn0215/4_getrans3.html">Mendelian genetics (Second Law of Inheritance)</a></li>
     <li><a href="../../teaching/lgn0215/5_liga1.html">Linkage mapping (basic concepts)</a></li>
     <li><a href="../../teaching/lgn0215/6_liga2.html">Linkage mapping (three-point testcross)</a></li>
     <li><a href="../../teaching/lgn0215/7_muta.html">Mutation</a></li>
