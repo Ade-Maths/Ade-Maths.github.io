@@ -6,8 +6,8 @@ permalink: /
 
 profile:
   align: right
-  image: 1709985435295.jpeg
-  image_circular: false # crops the image to make it circular
+  image: foto.jpg
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Department of Genetics</p>
     <p>Av. Pádua Dias, 11</p>
