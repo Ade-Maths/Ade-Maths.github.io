@@ -7,7 +7,7 @@
 # bluesky_url: # your bluesky URL
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
-email: odesinaifeoluwa@gmail.com # your email address
+email: 202423220012@pq.uenf.br # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
 github_username: Ade-Maths # your GitHub user name
@@ -29,9 +29,9 @@ orcid_id: 0000-0002-2235-5414 # your ORCID ID
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
 research_gate_profile: https://www.researchgate.net/profile/Ifeoluwa-Odesina-2 # your profile on ResearchGate
-rss_icon: false # set to true to show the RSS icon
+rss_icon: true # set to true to show the RSS icon
 scholar_userid: 60076700000 # your Google Scholar ID
-# scopus_id: # your profile on Scopus
+# scopus_id:  60076700000 # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id
 # stackoverflow_id: # your stackoverflow id
